@@ -41,6 +41,7 @@ When a vibration is triggered by setting a stimulation duration via the [BLE int
 An internal timer keeps track of the duration and saves the stimulation timestamp relative to the acceleration time, when the acceleration recording mode is active; note that this is currently only possible via USB. 
 
 :bulb: **Note:** While stimulation is active all other stimulation commands are ignored
+
 :bulb: **Note:** Only one side can be active at a time.
 
 #### DRV2605L LRA Driver
