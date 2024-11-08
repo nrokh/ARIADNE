@@ -1,10 +1,11 @@
-# ARIADNE Readme
+# ARIADNE: Adhesive, Resonant Interface for Applying Directional Nudges Effectively
+:star: [Link to preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006211)
 
 This is a PlatformIO-based project for the ARIADNE vibrotactile motion guidance system.
 For information on the hardware and to find the full bill of materials used in this project, please refer to https://doi.org/10.17617/3.X62OQZ.
 
-Citation:
-Rokhmanova N, Martus J, Faulkner R, Fiene J, Kuchenbecker KJ. *ARIADNE: a wearable platform for evaluating vibrotactile motion guidance.* (under review)
+Citation:  
+Rokhmanova, Nataliya and Martus, Julian and Faulkner, Robert and Fiene, Jonathan and Kuchenbecker, Katherine J. and Administrator, Sneak Peek, ARIADNE: A Wearable Platform for Evaluating Vibrotactile Motion Guidance. Available at SSRN: https://ssrn.com/abstract=5006211 or http://dx.doi.org/10.2139/ssrn.5006211
 
 ## Features 
 
